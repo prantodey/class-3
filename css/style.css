@@ -1,0 +1,122 @@
+body {
+	margin: 0;
+}
+
+.header {
+	background-image: url(../images/pranto.jpg);
+	padding: 50px 0px;
+	background-position: center ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+
+
+
+
+.container {
+	width: 1200px;
+	margin: auto;
+
+}
+
+.pranto-1 {
+	width: 40%;
+	float: left;
+}
+
+.pranto-2 {
+	width: 60%;
+	float: left;
+}
+
+
+img {
+	max-width: 100%;
+	width: 400px;
+	margin-left: auto;
+	display: block;
+}
+
+h1 {
+	font-size: 50px;
+	color: #fff;
+}
+
+p {
+	font-size: 20px;
+	color: #fff;
+}
+
+a {
+	background: red;
+	color: #fff;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 10px 40px;
+	border-radius: 15px;
+}
+
+
+
+
+.about-pnp p{
+	color: #000;
+	text-align: center;
+	padding: 10px;
+}
+
+
+
+
+
+.col-3{
+	width: 50%;
+	float: left;
+	text-align: center;
+	box-sizing: border-box;
+	padding: 0px 50px;
+}
+
+.feature-section h2{
+	color: #e61a1a;
+}
+
+.feature-section p{
+	color: #956a6a;
+	margin-bottom: 25px;
+
+
+}
+
+.border {
+	border-right: 5px solid red;
+}
+
+
+.footer {
+	background-image: url(../images/pranto.jpg);
+	
+	background-position: center ;
+	background-repeat: no-repeat;
+	
+}
+
+
+.container {
+	width: 1000px;
+	margin: auto;
+	overflow: hidden;
+	padding: 50px 0px;
+}
+
+.col-6 {
+	box-sizing: border-box;
+	float: left;
+	width: 100%;
+}
+
+h2 {
+	color: #fff;
+	font-size: 25px;
+}
